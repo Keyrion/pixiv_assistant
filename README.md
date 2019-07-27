@@ -1,6 +1,6 @@
 # pixiv_assistant
 
-- 国内的同学有自己搭梯子
+- 国内的同学要自己搭梯子
 - a spider for www.pixiv.net
 - This is just a coding practice of a senior high student
 
