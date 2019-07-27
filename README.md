@@ -30,4 +30,5 @@ unzip pixiv_assistant.zip
 ### run
 
 run main.py in pixiv_assistant
-the pictures will be downloaded in photos
+
+- the pictures will be downloaded in photos
