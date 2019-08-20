@@ -1,6 +1,7 @@
 # pixiv_assistant
 
-- **This project is invalid now since pixiv revise its website with google recaptchaV3**
+#### **This project is invalid now since pixiv revise its website with google recaptchaV3**
+
 - 国内的同学要自己搭梯子
 - a spider for www.pixiv.net
 - This is just a coding practice of a senior high student
